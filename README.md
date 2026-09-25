@@ -42,3 +42,4 @@ On Windows PowerShell, run the executable with `./example.exe` or `.\example.exe
 Suggestions, fixes, and new beginner-friendly examples are welcome. Open an issue describing the idea or submit a pull request. For code examples, include a short explanation and the command needed to compile them.
 
 ## License
+This project is licensed under the [Apache License 2.0](LICENSE). See the [LICENSE](LICENSE) file for details.
